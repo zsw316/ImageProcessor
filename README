@@ -1,0 +1,13 @@
+Author
+    Wells Zhang
+
+About
+    This program demostrates how to use Magick++ and libexif to crop, zoom in/out, rotate images, and read exif informations from images
+
+
+How to use
+    cd src;
+    make clean;
+    make all;
+    ../bin/imageprocessor -h
+
